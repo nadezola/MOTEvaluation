@@ -1,6 +1,6 @@
-data/restracks
-data/mot17
-res_evaluation
+data/mot17/*
+data/restracks/*
+res_evaluation/*
 error_log.txt
 
 
