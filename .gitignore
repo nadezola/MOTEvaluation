@@ -1,0 +1,9 @@
+data/restracks
+data/mot17
+res_evaluation
+error_log.txt
+
+
+!data/mot17/.gitkeep
+!data/restracks/.gitkeep
+!res_evaluation/.gitkeep
